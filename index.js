@@ -8,7 +8,7 @@ function writeCards(names, cards) {
 }
 
 function countDown(num) {
-  for (let i = 0; num > 0; i--) {
+  while num < 0 {
     
   }
   console.log(num)
